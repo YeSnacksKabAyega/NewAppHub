@@ -6,7 +6,7 @@ namespace NewAppHub
     {
         public void SendToAll(string name, string message)
         {
-            Clients.All.InvokeAsync("sendToAll", name, message);
+            Clients.All.SendAsync("sendToAll", name, message);
         }
     }
 }

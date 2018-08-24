@@ -9,34 +9,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="AngularJs.SignalR.Hub" Version="1.6.3" />
-    <PackageReference Include="Microsoft.AspNet.Cors" Version="5.2.6" />
-    <PackageReference Include="Microsoft.AspNet.Identity.Owin" Version="2.2.2" />
-    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.6" />
-    <PackageReference Include="Microsoft.AspNet.SignalR" Version="2.3.0" />
-    <PackageReference Include="Microsoft.AspNet.SignalR.Client" Version="2.3.0" />
-    <PackageReference Include="Microsoft.AspNet.SignalR.Core" Version="2.3.0" />
-    <PackageReference Include="Microsoft.AspNet.SignalR.JS" Version="2.3.0" />
-    <PackageReference Include="Microsoft.AspNet.SignalR.Owin" Version="1.2.2" />
     <PackageReference Include="Microsoft.AspNet.WebApi" Version="5.2.6" />
     <PackageReference Include="Microsoft.AspNet.WebApi.Core" Version="5.2.6" />
     <PackageReference Include="Microsoft.AspNet.WebApi.Cors" Version="5.2.6" />
-    <PackageReference Include="Microsoft.AspNet.WebApi.Owin" Version="5.2.6" />
-    <PackageReference Include="Microsoft.AspNet.WebApi.WebHost" Version="5.2.6" />
-    <PackageReference Include="Microsoft.AspNet.WebPages" Version="3.2.6" />
-    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.9" />
-    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.1.1" />
-    <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.0.3" />
-    <PackageReference Include="Microsoft.AspNetCore.SignalR.Client" Version="1.0.3" />
-    <PackageReference Include="Microsoft.AspNetCore.SignalR.Core" Version="1.0.3" />
-    <PackageReference Include="Microsoft.Owin" Version="4.0.0" />
-    <PackageReference Include="Microsoft.Owin.Cors" Version="4.0.0" />
-    <PackageReference Include="Microsoft.Owin.Host.SystemWeb" Version="4.0.0" />
-    <PackageReference Include="Microsoft.Owin.Security" Version="4.0.0" />
-    <PackageReference Include="Microsoft.Owin.Security.OAuth" Version="4.0.0" />
-    <PackageReference Include="Microsoft.Web.Infrastructure" Version="1.0.0" />
-    <PackageReference Include="Simple.Owin.Cors" Version="0.1.2.52227" />
-    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.5.0" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.0.0-alpha2-final" />
   </ItemGroup>
 
 </Project>
